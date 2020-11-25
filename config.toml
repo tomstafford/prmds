@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://infallible-swirles-19af24.netlify.app/"
 languageCode = "en-US"
 title = "Simple FAQ Theme for Hugo"
 theme = "hugo-faq-theme"
