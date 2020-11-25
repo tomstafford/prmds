@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://infallible-swirles-19af24.netlify.app/"
+baseurl = "https://prmds.netlify.app/"
 languageCode = "en-US"
 title = "Simple FAQ Theme for Hugo"
 theme = "hugo-faq-theme"
@@ -33,9 +33,9 @@ SectionPagesMenu = "main"
 		weight = 50
 		url = "#privacy"
 	[[menu.main]]
-		name = "Delivery"
+		name = "Colophon"
 		weight = 60
-		url = "#delivery"
+		url = "#colophon"
 
 [params]
 	
