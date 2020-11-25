@@ -1,4 +1,4 @@
-https://github.com/aerohub/hugo-faq-theme hugo-faq-themeblo---
+---
 title: "Hello R Markdown"
 author: "Frida Gomam"
 date: 2015-07-23T21:13:14-05:00
