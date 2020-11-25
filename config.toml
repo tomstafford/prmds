@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://prmds.netlify.app/"
 languageCode = "en-US"
-title = "Simple FAQ Theme for Hugo"
+title = "PRMDS Frequently Asked Questions"
 theme = "hugo-faq-theme"
 
 # Do not build files for websites. Need them? Set to false
@@ -13,30 +13,29 @@ disable404 = true
 SectionPagesMenu = "main"
 
 	[[menu.main]]
-		name = "Basics"
+		name = "Intro"
 		weight = 10
-		url = "#basics"
+		url = "#intro"
 	[[menu.main]]
-		name = "Mobile"
+		name = "Entry Requirements"
 		weight = 20
-		url = "#mobile"
-	[[menu.main]]
-		name = "Account"
+		url = "#entry"
+  [[menu.main]]
+		name = "Careers"
 		weight = 30
-		url = "#account"
-	[[menu.main]]
-		name = "Payments"
+		url = "#careers"
+  [[menu.main]]
+		name = "The Course"
 		weight = 40
-		url = "#payments"
+		url = "#course"
 	[[menu.main]]
-		name = "Privacy"
+		name = "Preparation"
 		weight = 50
-		url = "#privacy"
+		url = "#prep"
 	[[menu.main]]
 		name = "Colophon"
 		weight = 60
 		url = "#colophon"
-
 [params]
 	
 	# Custom styling

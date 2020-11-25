@@ -3,12 +3,12 @@ name = "Colophon"
 
 [[items]]
 
-question = "How is this site made"
+question = "How is this site made?"
 answer = "This site is made using blogdown to build a static site using Hugo, using the [Hugo FAQ Theme](https://themes.gohugo.io/hugo-faq-theme/). The [files are hosted on github](https://github.com/tomstafford/prmds) and deployed using Netlify"
 
 [[items]]
 
-question = "Whats up with that"
+question = "Whats up with that?"
 answer = "I think I preferred the days when we just wrote .html, but this is where we are now"
 
 [[items]]
