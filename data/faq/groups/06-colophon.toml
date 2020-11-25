@@ -1,0 +1,49 @@
+id = "colophon"
+name = "Colophon"
+
+[[items]]
+
+question = "How is this site made"
+answer = "This site is made using blogdown to build a static site using Hugo, using the [Hugo FAQ Theme](https://themes.gohugo.io/hugo-faq-theme/). The [files are hosted on github](https://github.com/tomstafford/prmds) and deployed using Netlify"
+
+[[items]]
+
+question = "Whats up with that"
+answer = "I think I preferred the days when we just wrote .html, but this is where we are now"
+
+[[items]]
+
+question = "Prerequisits?"
+answer = "Github account. R/RStudio installed. Blogdown installed."
+
+[[items]]
+
+question = "Tell me the detailed deployment steps"
+answer = "In RStudio, run [blogdown::new_site(theme = 'tomstafford/hugo-faq-theme')](https://bookdown.org/yihui/blogdown/workflow.html). Follow theme install instructions (copy .toml file and /data to root). Edit config.toml file so it knows the site name (otherwise when deployed it will fail to pull in the css). Sync to git remote repo (git init, git add ., git commit, git remote add origin reponame, git push origin master). "
+
+
+
+[[items]]
+
+question = "Notes?"
+answer = "Blogdown handles the theme git submodule."
+
+[[items]]
+
+question = "How does your UK Next Day Delivery service work?"
+answer = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit."
+
+[[items]]
+
+question = "How does your Next Day Delivery service work?"
+answer = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit."
+
+[[items]]
+
+question = "When will my order arrive?"
+answer = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit."
+
+[[items]]
+
+question = "When will my order ship?"
+answer = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit."
