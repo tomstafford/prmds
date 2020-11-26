@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://prmds.netlify.app/"
 languageCode = "en-US"
-title = "Psychological Research Methods with Data Science"
+title = "PRM with Data Science"
 theme = "hugo-faq-theme"
 
 # Do not build files for websites. Need them? Set to false
