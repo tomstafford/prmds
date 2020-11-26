@@ -4,12 +4,12 @@ name = "The Course"
 [[items]]
 
 question = "What modules will I take?"
-answer = "PSY6232 Systematic Literature Review, PSY6233 Research Project, PSY6010 Intermediate Statistics, PSY6210 Advanced Statistics, PSY6121 Research Methods, PSY6122 Current Issues in Psychological Research, PSY6422 Data Management and Visualisation"
+answer = "See [here](https://www.sheffield.ac.uk/psychology/modules/msc-psychological-research-methods-data-science-modules)"
 
 [[items]]
 
 question = "Which staff teach on the course?"
-answer = "Staff from across the department of psychology teach on the MSc, and supervise projects. Advanced Statistics is taught by Nemanja Vaci, Data Management and Visualisation is taught by [Tom Stafford](http://bbc.co.uk)"
+answer = "Staff from across the department of psychology [teach on the MSc](https://www.sheffield.ac.uk/psychology/modules/msc-psychological-research-methods-data-science-modules), and supervise projects."
 
 [[items]]
 
