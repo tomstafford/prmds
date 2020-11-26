@@ -1,0 +1,8 @@
+id = "entry"
+name = "Entry Requirements"
+
+[[items]]
+
+question = "Do I need to be able to code?"
+answer = "The course is for psychology graduates, with no assumption that you can code."
+

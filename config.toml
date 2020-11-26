@@ -29,10 +29,6 @@ SectionPagesMenu = "main"
 		weight = 40
 		url = "#course"
 	[[menu.main]]
-		name = "Preparation"
-		weight = 50
-		url = "#prep"
-	[[menu.main]]
 		name = "Colophon"
 		weight = 60
 		url = "#colophon"

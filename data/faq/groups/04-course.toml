@@ -1,0 +1,18 @@
+id = "course"
+name = "The Course"
+
+[[items]]
+
+question = "What modules will I take?"
+answer = "PSY6232 Systematic Literature Review, PSY6233 Research Project, PSY6010 Intermediate Statistics, PSY6210 Advanced Statistics, PSY6121 Research Methods, PSY6122 Current Issues in Psychological Research, PSY6422 Data Management and Visualisation"
+
+[[items]]
+
+question = "Which staff teach on the course?"
+answer = "Staff from across the department of psychology teach on the MSc, and supervise projects. Advanced Statistics is taught by Nemanja Vaci, Data Management and Visualisation is taught by [Tom Stafford](http://bbc.co.uk)"
+
+[[items]]
+
+question = "Will I learn machine learning, deep learning, AI?"
+answer = "We are not able to teach machine learning, deep learning and AI, because the course is aimed at those who are just beginning to use computational tools. There is an opportunity to use advanced techniques as part of your research project under the guidance of your supervisor"
+

@@ -8,6 +8,12 @@ answer = "Psychological Research Methods with Data Science, an MSc at the Univer
 
 [[items]]
 
+question = "How does PRDMS differ from PRM or PRM with Advanced Statistics?"
+answer = "Psychological Research Methods with Data Science, is a flavour of the more general MSc in Psychological Research Methods. The difference from the flavour with advanced stats is that you are also required to learn to code (in R). You take the intermediate and advanced statistics classes along with those on the advanced stats course"
+
+
+[[items]]
+
 question = "What's this site?"
 answer = "A place to host frequently asked questions, and their answers"
 

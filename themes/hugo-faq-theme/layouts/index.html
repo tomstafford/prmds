@@ -34,7 +34,7 @@
 			<li>
 				<a class="cd-faq-trigger" href="#0">{{.question}}</a>
 				<div class="cd-faq-content">
-					<p>{{.answer}}</p>
+					<p>{{.answer | markdownify}}</p>
 				</div>
 			</li>
 			{{ end }}

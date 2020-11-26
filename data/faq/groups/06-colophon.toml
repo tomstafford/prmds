@@ -27,3 +27,8 @@ answer = "In RStudio, run [blogdown::new_site(theme = 'tomstafford/hugo-faq-them
 
 question = "Notes?"
 answer = "Blogdown handles the theme git submodule."
+
+[[items]]
+
+question = "What are the changes to the theme you made?"
+answer = "in layouts/index.html 1. line 7, changed the font url to https in the css file (fixing netlify error), 2. added [| markdownify](https://discourse.gohugo.io/t/cant-insert-link-inside-a-paragraph-of-config-toml/14794/4) to part which generates answer"
