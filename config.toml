@@ -39,3 +39,6 @@ SectionPagesMenu = "main"
 	# to your site's css in the assets/ directory. 
 
 	custom_css = ["css/blue.css"]
+	
+
+

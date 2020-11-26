@@ -5,3 +5,9 @@ name = "Careers"
 
 question = "What careers does this MSc prepare me for?"
 answer = "Anything which involves numbers and making arguments from data! More soon here"
+
+
+[[items]]
+
+question = "What internship and research opportunities are available?"
+answer = "The research project forms a major part of the course, and there is the option to collaborate with external partners on this."
