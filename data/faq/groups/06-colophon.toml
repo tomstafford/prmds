@@ -26,7 +26,7 @@ answer = "In RStudio, run [blogdown::new_site(theme = 'tomstafford/hugo-faq-them
 [[items]]
 
 question = "Notes?"
-answer = "Blogdown handles the theme git submodule."
+answer = "Blogdown handles the theme git submodule. The youtube embded is made by editing layouts/index.html"
 
 [[items]]
 
