@@ -6,3 +6,8 @@ name = "Entry Requirements"
 question = "Do I need to be able to code?"
 answer = "The course is for psychology graduates, with no assumption that you can code."
 
+[[items]]
+
+question = "are there any other skills or experience that are likely to make an applicant more successful?"
+answer = "Evidence of additional projects or experience with data, code or psychological research methods will strengthen your application. Feel free to attach an example relevant piece of to your application"
+

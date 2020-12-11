@@ -6,6 +6,10 @@ name = "Careers"
 question = "What careers does this MSc prepare me for?"
 answer = "Anything which involves numbers and making arguments from data! More soon here"
 
+[[items]]
+
+question = "What kind of job fields have recent graduates gone into?"
+answer = "This is a new course so we don't have extensive information on graduate destinations yet. Graduates from the related Advanced Stats MSC progressed to futher study (for a PhD), work with industry and in government/public sector"
 
 [[items]]
 
