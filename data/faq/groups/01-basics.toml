@@ -8,6 +8,11 @@ answer = "Psychological Research Methods with Data Science, an MSc at the Univer
 
 [[items]]
 
+question = "What's Data Science"
+answer = "Data Science means different things to different people. There's a computer science / software engineernig end to it, and a data visualisation / statistics end. This course is on the data visualisation / statistics end. You can see more about the core module here [https://tomstafford.github.io/psy6422/][https://tomstafford.github.io/psy6422/)
+
+[[items]]
+
 question = "How does PRDMS differ from PRM or PRM with Advanced Statistics?"
 answer = "Psychological Research Methods with Data Science, is a flavour of the more general MSc in Psychological Research Methods. The difference from the flavour with advanced stats is that you are also required to learn to code (in R). You take the intermediate and advanced statistics classes along with those on the advanced stats course"
 
