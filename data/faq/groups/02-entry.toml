@@ -11,3 +11,13 @@ answer = "The course is for psychology graduates, with no assumption that you ca
 question = "are there any other skills or experience that are likely to make an applicant more successful?"
 answer = "Evidence of additional projects or experience with data, code or psychological research methods will strengthen your application. Feel free to attach an example relevant piece of to your application"
 
+[[items]]
+
+question = "What experience do you expect from candidates for the course?"
+answer = "We expect a psychology degree with evidence of success at specialist statistics training (e.g. final year statistics courses). No coding experience required. There are no entry assessments, although if you have anything you can submit as additional evidence with your application (e.g. project work) we encourage you to include that"
+
+[[items]]
+
+question = "What is the deadline for applications?"
+answer = "There is no absolute deadline for applications. The course begins in October. If there are more applicants than places you may be asked to defer to the following year"
+
