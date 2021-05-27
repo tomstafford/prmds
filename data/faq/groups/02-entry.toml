@@ -19,5 +19,11 @@ answer = "We expect a psychology degree with evidence of success at specialist s
 [[items]]
 
 question = "What is the deadline for applications?"
-answer = "There is no absolute deadline for applications. The course begins in October. If there are more applicants than places you may be asked to defer to the following year"
+answer = "Applications are considered up until the end of August. The course begins in October. If there are more applicants than places you may be asked to defer to the following year. If you are an international student you may need to arrange a visa in addition to your place on the course, and in order to allow time for this we encourage you to apply as soon as possible"
+
+[[items]]
+
+question = "Where can I find more information on how to apply?"
+answer = "Here: [Applying essentials | Postgraduate study | The University of Sheffield](https://www.sheffield.ac.uk/postgraduate/taught/apply)"
+
 
