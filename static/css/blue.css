@@ -86,9 +86,10 @@ header h1 {
   width: 90%;
   max-width: 1024px;
   margin: 2em auto; 
+  margin-bottom: 30px;
 }
 
-.top:header {
+.top:p {
   font-size: 200px;
   font-size: 1.25rem;
 }
