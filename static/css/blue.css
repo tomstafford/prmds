@@ -82,6 +82,12 @@ header h1 {
   }
 }
 
+.top {
+  width: 90%;
+  max-width: 1024px;
+  margin: 2em auto; 
+}
+
 .cd-faq {
   width: 90%;
   max-width: 1024px;
