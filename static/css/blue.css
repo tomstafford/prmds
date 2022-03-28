@@ -92,6 +92,7 @@ header h1 {
 .top > h1 {
   font-weight: bold;
   font-size: 1.25rem;
+  margin-bottom: 30px;
 }
 
 .top > p {
