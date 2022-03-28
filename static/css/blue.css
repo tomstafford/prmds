@@ -89,9 +89,13 @@ header h1 {
   margin-bottom: 30px;
 }
 
-.top > p {
-  font-size: 200px;
+.top > h1 {
+  font-weight: bold;
   font-size: 1.25rem;
+}
+
+.top > p {
+  margin-bottom: 30px;
 }
 
 
