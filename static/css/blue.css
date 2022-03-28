@@ -89,7 +89,7 @@ header h1 {
   margin-bottom: 30px;
 }
 
-.top.p {
+.top > p {
   font-size: 200px;
   font-size: 1.25rem;
 }
